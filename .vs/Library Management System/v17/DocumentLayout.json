@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Projects\\Library Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5808E7E6-6748-45FD-B396-134A0F588017}|Library Management System.vcxproj|E:\\Github\\Projects\\Library Management System\\LibAppMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5808E7E6-6748-45FD-B396-134A0F588017}|Library Management System.vcxproj|solutionrelative:LibAppMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5808E7E6-6748-45FD-B396-134A0F588017}|Library Management System.vcxproj|E:\\Github\\Projects\\Library Management System\\Publication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5808E7E6-6748-45FD-B396-134A0F588017}|Library Management System.vcxproj|solutionrelative:Publication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5808E7E6-6748-45FD-B396-134A0F588017}|Library Management System.vcxproj|E:\\Github\\Projects\\Library Management System\\PublicationSelector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5808E7E6-6748-45FD-B396-134A0F588017}|Library Management System.vcxproj|solutionrelative:PublicationSelector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5808E7E6-6748-45FD-B396-134A0F588017}|Library Management System.vcxproj|E:\\Github\\Projects\\Library Management System\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5808E7E6-6748-45FD-B396-134A0F588017}|Library Management System.vcxproj|solutionrelative:Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5808E7E6-6748-45FD-B396-134A0F588017}|Library Management System.vcxproj|E:\\Github\\Projects\\Library Management System\\Streamable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5808E7E6-6748-45FD-B396-134A0F588017}|Library Management System.vcxproj|solutionrelative:Streamable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5808E7E6-6748-45FD-B396-134A0F588017}|Library Management System.vcxproj|E:\\Github\\Projects\\Library Management System\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5808E7E6-6748-45FD-B396-134A0F588017}|Library Management System.vcxproj|solutionrelative:Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "E:\\Github\\Projects\\Library Management System\\Menu.cpp",
+              "RelativeDocumentMoniker": "Menu.cpp",
+              "ToolTip": "E:\\Github\\Projects\\Library Management System\\Menu.cpp",
+              "RelativeToolTip": "Menu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T05:34:18.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicationSelector.cpp",
+              "DocumentMoniker": "E:\\Github\\Projects\\Library Management System\\PublicationSelector.cpp",
+              "RelativeDocumentMoniker": "PublicationSelector.cpp",
+              "ToolTip": "E:\\Github\\Projects\\Library Management System\\PublicationSelector.cpp",
+              "RelativeToolTip": "PublicationSelector.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T05:30:15.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Streamable.cpp",
+              "DocumentMoniker": "E:\\Github\\Projects\\Library Management System\\Streamable.cpp",
+              "RelativeDocumentMoniker": "Streamable.cpp",
+              "ToolTip": "E:\\Github\\Projects\\Library Management System\\Streamable.cpp",
+              "RelativeToolTip": "Streamable.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T05:30:11.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publication.cpp",
+              "DocumentMoniker": "E:\\Github\\Projects\\Library Management System\\Publication.cpp",
+              "RelativeDocumentMoniker": "Publication.cpp",
+              "ToolTip": "E:\\Github\\Projects\\Library Management System\\Publication.cpp",
+              "RelativeToolTip": "Publication.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T05:20:40.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cpp",
+              "DocumentMoniker": "E:\\Github\\Projects\\Library Management System\\Book.cpp",
+              "RelativeDocumentMoniker": "Book.cpp",
+              "ToolTip": "E:\\Github\\Projects\\Library Management System\\Book.cpp",
+              "RelativeToolTip": "Book.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T05:19:04.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibAppMain.cpp",
+              "DocumentMoniker": "E:\\Github\\Projects\\Library Management System\\LibAppMain.cpp",
+              "RelativeDocumentMoniker": "LibAppMain.cpp",
+              "ToolTip": "E:\\Github\\Projects\\Library Management System\\LibAppMain.cpp",
+              "RelativeToolTip": "LibAppMain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T05:13:16.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
